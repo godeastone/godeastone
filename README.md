@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @godeastone
-- 👀 I’m interested in Computer science
+- 👀 I’m interested in Computer science & Security
 
 <!---
 godeastone/godeastone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
