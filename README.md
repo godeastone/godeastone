@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @godeastone (shine)
+- 👋 Hi, I’m @godeastone (Dongwon Shin)
 - 👀 I’m interested in Computer science (Security & ML)
 
 <!---
